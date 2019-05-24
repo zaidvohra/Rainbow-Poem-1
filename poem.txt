@@ -9,3 +9,4 @@ unicorn
 blue
 these are the colors of rainbow
 and the unicorn
+Indigo
